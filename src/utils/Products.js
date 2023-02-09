@@ -18,8 +18,9 @@ import {
         </Box>
         <Container as={Stack} maxW={'100%'} py={6} m={'auto'}>
           <SimpleGrid columns={{ base: 1, md: 2 }} spacing={{ base: 8, lg: 8 }}>
-            <Stack flex={4} data-aos="fade-left">
+                    <Stack flex={4} >
               <Image
+                            data-aos="fade-down"
                 w={350}
                 margin={'auto'}
                 src="https://www.pngmart.com/files/4/Travel-PNG-Transparent-Image.png"
