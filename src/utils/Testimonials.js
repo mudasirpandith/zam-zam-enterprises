@@ -92,7 +92,7 @@ export default function TestimonialSection() {
           <Text>We have been working with clients around the world</Text>
         </Stack>
         <Stack
-          data-aos="zoom-out"
+          data-aos="zoom-in"
           direction={{ base: 'column', md: 'row' }}
           spacing={{ base: 10, md: 4, lg: 10 }}
         >
